@@ -21,8 +21,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Rioseo\\FoursquareApiClient\\": "src/",
-            "Rioseo\\FoursquareApiClient\\Tests\\": "tests/"
+            "Jcroll\\FoursquareApiClient\\": "src/",
+            "Jcroll\\FoursquareApiClient\\Tests\\": "tests/"
         }
     },
     "minimum-stability": "stable",
